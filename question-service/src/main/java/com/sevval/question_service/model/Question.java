@@ -1,4 +1,4 @@
-package com.sevval.quizapp.model;
+package com.sevval.question_service.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

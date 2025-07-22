@@ -1,10 +1,10 @@
-package com.sevval.quizapp;
+package com.sevval.question_service;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class QuizappApplicationTests {
+class QuestionServiceApplicationTests {
 
 	@Test
 	void contextLoads() {

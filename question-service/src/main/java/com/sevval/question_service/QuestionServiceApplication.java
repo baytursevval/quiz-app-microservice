@@ -1,13 +1,13 @@
-package com.sevval.quizapp;
+package com.sevval.question_service;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class QuizappApplication {
+public class QuestionServiceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(QuizappApplication.class, args);
+		SpringApplication.run(QuestionServiceApplication.class, args);
 	}
 
 }

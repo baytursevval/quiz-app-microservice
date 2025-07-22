@@ -1,4 +1,4 @@
-package com.sevval.quizapp.model;
+package com.sevval.question_service.model;
 
 import lombok.Data;
 import lombok.RequiredArgsConstructor;
